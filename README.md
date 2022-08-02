@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrXisOnline
 - 👀 I’m interested in Programming & Web Development
-- 🌱 I’m currently learning A.I. & Machine Learning
+- 🌱 I’m currently learning about A.I. & Machine Learning
 - 📫 You can Reach me on at https://twitter.com/Vastavik_insaan
 
 <!---
